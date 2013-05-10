@@ -1,2 +1,2 @@
 [config]
-scm_target_path=myTarget
+scm_target_path=myTarget/folder1/folder2
